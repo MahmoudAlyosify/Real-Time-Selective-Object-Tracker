@@ -27,7 +27,7 @@ Built for live camera feeds and CCTV systems.
 
 You need the following files in the same directory as the script:
 
-- `object_tracking_yolo.py` → main script
+- `real-time-oelective-object-tracker_yolo.py` → main script
 - `yolov3.weights` → YOLOv3 pre-trained weights  
   [Download from GitHub Mirror](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov3.weights)
 - `yolov3.cfg` → YOLOv3 configuration file  
@@ -35,7 +35,6 @@ You need the following files in the same directory as the script:
 - `coco.names` → Class labels  
   [Download from here](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
 
-> Ignore `yolov8n.pt` (not used in this project)
 
 ---
 
